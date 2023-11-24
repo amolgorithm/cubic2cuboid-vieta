@@ -1,8 +1,6 @@
 # Cubic2Cuboid
 - **Overall Objective:** Consider a cubic equation with only real roots, where the roots correspond to the edge lengths of a cuboid. The program will determine the **volume**, **surface area** and **space diagonal** of said cuboid, **_WITHOUT_** finding the roots of the cubic equation -- **(By using Vieta's Formulas)**.
 
-![](/media/cuboid_diagram.jpg)
-
 - **Extension #1:** To extend the primary objective, the program also calculates the approximate ratios between:
 The surface areas of the cuboid and a sphere of the same volume
 The volumes of the cuboid and a sphere with the same surface area
